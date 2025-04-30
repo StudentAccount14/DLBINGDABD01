@@ -1,0 +1,75 @@
+Musterfirma GmbH 							RECHNUNG
+Musterstrasse 10 							RECHNUNG # Rechnungsnr.
+12345 Musterstadt 							DATUM  01.01.2001
+Telefon [Telefonnummer eingeben] | Fax [Faxnummer eingeben]
+[E-Mail] | [Website]
+AN 									FÜR Projekt- oder Dienstbeschreibung
+Vorname Nachname 							AUFTRAG # Auftragsnr. #]
+Firmenname
+Mustergasse 2
+3110 Ort
+Österreich
+Telefon [Telefonnummer eingeben] | [E-Mail]
+Beschreibung
+Betrag
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A 
+150,00 €
+
+Produkt A
+
+150,00 €
+
+Summe  
+3.287 €
+
+
+Stellen Sie alle Schecks zahlbar an [Firmenname] aus
+Die Zahlung ist innerhalb von 30 Tagen fällig.
+Sollten Sie Fragen zu dieser Rechnung haben, kontaktieren Sie bitte [Name] | [Telefonnummer] | [E-Mail]
+VIELEN DANK FÜR IHRE BESTELLUNG!

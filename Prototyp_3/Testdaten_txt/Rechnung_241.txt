@@ -1,0 +1,49 @@
+Musterfirma GmbH – Musterstraße 12  – 12345 Musterstadt
+Vorname Nachname 							Rechnungsdatum:
+Musterplatz 1 								Lieferdatum/Leistungsdatum:
+7332 Ort 								Ihre Ansprechperson: Erika Mustermann
+Österreich 								E-Mail: erika.mustermann@example.com
+Rechnung
+Rechnungsnummer:
+RE-2017-MAI-11-0003
+Kundennummer:
+
+Datum:
+
+
+Sehr geehrter Herr Mustermann,
+vielen Dank für Ihr Vertrauen in die Musterfirma GmbH. Hiermit stellen wir Ihnen folgende Leistungen in Rechnung:
+Pos.
+Bezeichnung
+Menge
+Einheit
+Einzelpreis
+Gesamtpreis
+
+1.
+Produkt A 
+15
+Stück
+10,00 € 
+150,00 € 
+
+2.
+Produkt B 
+10
+Stück
+5,00 € 
+50,00 € 
+
+3.
+Produkt C 
+3
+Stück
+25,00 € 
+75,00 € 
+
+Nettobetrag 										275,00 €
+zzgl. Umsatzsteuer 19% 								52,25 €
+Rechnungsbetrag 							53.729 € €
+Der Gesamtbetrag ist bis zum 25.05.2017 mit dem Verwendungszweck „RE-2017-MAI-11-0003“ auf unser unten genanntes Konto zu zahlen.
+Mit freundlichen Grüßen
+Musterfirma GmbH
